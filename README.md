@@ -23,14 +23,6 @@ Este projeto consiste em um dispositivo de monitoramento de consumo de energia b
 - Display OLED 1.3": Fornece uma interface intuitiva para visualização dos dados.
 - Módulo LoRa: Possibilita a transmissão de dados de forma eficiente em longas distâncias.
 
-## Configuração e Uso
-
-1. Clone este repositório.
-2. Configure as bibliotecas necessárias no Arduino IDE.
-3. Conecte os componentes conforme o esquema elétrico fornecido.
-4. Carregue o código para o ESP32.
-5. Monitore os dados no display OLED e/ou receba os dados através da rede LoRa.
-
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorar este projeto.
